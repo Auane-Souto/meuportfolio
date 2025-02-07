@@ -203,3 +203,21 @@ footer .line-footer p a{
     color: rgb(255, 255, 255);
 }
 
+@media screen and (max-width: 684px){
+    /*GERAL*/
+    .flex{
+        flex-direction: column;
+    }
+
+    
+    section .especialidades{
+        padding: 40px 10%;
+    }
+
+
+    footer .line-footer{
+        text-align: center;
+    }
+
+
+}
